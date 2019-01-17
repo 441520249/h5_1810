@@ -54,7 +54,7 @@ gulp
 
 # 模块化
 
-- 自定义模块  (自己写的JS)
+- 自定义模块  (自己写的JS) 
 - 内置模块  (location,document.cookie)DOM和BOM  (操作系统)
 - 第三方模块 (jquery)
 
